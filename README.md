@@ -100,15 +100,3 @@ Notes, favorites, usage counts, presets, and UI state are saved in your **browse
 Use **Export JSON** to back up or migrate your data.
 
 ---
-
-## 🛠️ Requirements
-
-- Python 3.10+
-- No external Python dependencies
-- Modern browser (Chrome, Firefox, Edge)
-
----
-
-## 📜 License
-
- GPL-3.0 license 
