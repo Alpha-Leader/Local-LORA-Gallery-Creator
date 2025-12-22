@@ -27,7 +27,6 @@ I primary made this for my own personal use. I don't know if I will make any imp
   - favorites only
 - ⭐ Favorites & usage tracking (saved locally)
 - 📝 Per-LoRA notes (stored in browser localStorage)
-- ⚖️ One-click LoRA weight buttons
 - 📋 Copy helpers:
   - filename
   - `<lora:NAME:weight>` tag
