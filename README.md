@@ -73,17 +73,7 @@ When you place those folders directly into your Stable Diffusion LoRA directory,
 
 ## 🚀 Usage
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/YOUR_USERNAME/Local-LORA-Gallery-Creator.git
-cd Local-LORA-Gallery-Creator
-```
-
-### 2. Run from your LoRA folder
-```bash
-cd path/to/your/loras
-python LocalLoraGallery.py
-```
+### 1. Run the .bat file from your LoRA folder's root.
 
 By default:
 - the **current directory** is scanned
@@ -106,18 +96,6 @@ Notes, favorites, usage counts, presets, and UI state are saved in your **browse
 - ❌ Cleared if browser data is wiped
 
 Use **Export JSON** to back up or migrate your data.
-
----
-
-## 🖼️ Screenshot setup
-
-Create a folder called `docs/` and place your screenshot there as:
-
-```
-docs/screenshot.png
-```
-
-GitHub will automatically render it in the README.
 
 ---
 
