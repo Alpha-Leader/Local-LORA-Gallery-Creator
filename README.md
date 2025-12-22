@@ -150,4 +150,4 @@ GitHub will automatically render it in the README.
 
 ## 📜 License
 
-MIT License — use, modify, and share freely.
+ GPL-3.0 license 
