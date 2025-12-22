@@ -6,6 +6,8 @@ A **Python-based static site generator** that creates a fast, searchable **local
 
 This tool is designed for people with **large LoRA collections** who want to explore, compare, and select styles **outside of their SD UI** (ComfyUI, A1111, etc.).
 
+I primary made this for my own personal use. I don't know if I will make any improvements to what I already have. 
+
 ---
 
 ## ✨ Features
@@ -104,25 +106,6 @@ Use **Export JSON** to back up or migrate your data.
 - Python 3.10+
 - No external Python dependencies
 - Modern browser (Chrome, Firefox, Edge)
-
----
-
-## 🎯 Who this is for
-
-- Stable Diffusion power users
-- Large LoRA collectors
-- Anyone tired of scrolling endless dropdowns in SD UIs
-- People who want **visual LoRA discovery**
-
----
-
-## 🔮 Planned / possible future features
-
-- Prompt sandbox (visual prompt builder)
-- LoRA compatibility warnings
-- Similar-LoRA suggestions
-- Auto-regeneration via file watching
-- Multi-folder indexing
 
 ---
 
