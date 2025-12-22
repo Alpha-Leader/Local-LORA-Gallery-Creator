@@ -1,6 +1,6 @@
 # Local LORA Gallery Creator
 
-![Local LORA Gallery Screenshot](docs/screenshot.png)
+![Local LORA Gallery Screenshot](screenshot.png)
 
 A **Python-based static site generator** that creates a fast, searchable **local HTML gallery** for browsing your Stable Diffusion LoRAs — complete with **image previews, trigger words, metadata, filters, notes, favorites, and presets**.
 
