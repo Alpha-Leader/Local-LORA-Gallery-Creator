@@ -60,7 +60,7 @@ You only need to rerun the script when files on disk change
 
 ## 📥 Recommended workflow
 
-This tool pairs perfectly with the **Firefox Civitai Model Downloader**:
+This tool pairs perfectly with the **Firefox Civitai Model Downloader by Anton**:
 
 👉 https://addons.mozilla.org/en-US/firefox/addon/civit-model-downloader/
 
