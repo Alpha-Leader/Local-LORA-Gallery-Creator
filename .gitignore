@@ -1,0 +1,34 @@
+# ── Generated output (contains your personal library data — never commit) ──
+lora_gallery.html
+.lora_gallery_meta_cache.json
+_civitai_update_report.txt
+run_deletions.py
+_DELETED/
+
+# ── LoRA model files & downloaded assets (not part of the tool) ──
+*.safetensors
+*.pt
+*.ckpt
+*.png
+!screenshot.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.params
+*.info
+vnccs_installed_models.json
+
+# ── Personal prompt data ──
+wildcards/
+prompt_pack.json
+
+# ── Older gallery versions (kept locally, not published) ──
+LocalLoraGallery.py
+LocalLoraGalleryV2.py
+LocalLoraGalleryV3.py
+LocalLoraGalleryV4.py
+Rebuild Gallery V3.bat
+Rebuild Gallery V4.bat
+Rerun on Change.bat
+!Zimage/
