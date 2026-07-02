@@ -1,6 +1,6 @@
 # LoRA Gallery V5
 
-![Local LORA Gallery Screenshot](screenshot.png)
+![Local LORA Gallery Screenshot](screenshotv5.png)
 _Screenshot from an earlier version — the V5 layout adds a folder sidebar and prompt sandbox._
 
 A local, single-file HTML gallery for browsing, organizing, and managing your Stable Diffusion LoRA collection. No web server, no installation beyond Python — just run the script and open the HTML in your browser.
